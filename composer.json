@@ -1,0 +1,19 @@
+{
+    "name": "admiratorvit/telegram_bot_new",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Admiratorvit\\TelegramBotNew\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Admirator"
+        }
+    ],
+    "require": {
+        "symfony/http-client": "^6.2",
+        "symfony/http-foundation": "^6.2",
+        "symfony/dependency-injection": "^6.2"
+    }
+}
